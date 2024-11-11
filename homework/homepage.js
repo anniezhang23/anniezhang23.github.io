@@ -1,0 +1,1 @@
+//Integrate one or more features of JavaScript into your site to make your site more interactive. For example, you can use JavaScript to add alerts, to have an effect at a recurring interval, or to add interactivity to buttons, dropdowns, or forms. If you are creating external JavaScript files, you should place them in homepage/js folder. Feel free to be creative!
